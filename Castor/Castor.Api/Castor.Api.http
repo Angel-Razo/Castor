@@ -1,0 +1,6 @@
+@Castor.Api_HostAddress = http://localhost:5036
+
+GET {{Castor.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
